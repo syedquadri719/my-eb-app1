@@ -71,7 +71,7 @@ welcome = """
 
     text-align: right;
     padding-top: 11em;
-    background-color: #dedede;
+    background-color: #BADA55;
     background-image: -moz-radial-gradient(left top, circle, #6AF9BD 0%, #00B386 60%);
     background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6AF9BD), to(#00B386));
   }
